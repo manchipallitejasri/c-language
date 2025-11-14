@@ -21,7 +21,7 @@ int main() {
             }
         }
     }
-    printf("\nafter string");
+    printf("\nafter storting");
     for(i=0;i<n;i++)
     {
         printf("\t%d",a[i]);
@@ -29,3 +29,4 @@ int main() {
 
     return 0;
 }
+
